@@ -1,0 +1,18 @@
+[Default]
+User = anonymous
+Pass = princepawn@yahoo.com
+Dir  = /pub
+
+[gnu]
+Host = ftp.gnu.org
+Dir  = /pub/gnu
+
+
+[microsoft]
+Host = ftp.microsoft.com
+Dir = /
+
+
+[linuxppc]
+Host = ftp.linuxppc.org
+Dir  = /pub
